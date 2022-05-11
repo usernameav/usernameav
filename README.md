@@ -1,0 +1,6 @@
+- # Sobre mim
+-  👋 Olá meu nome é @usernameav
+-  :+1:meu email de contato é maria.barros.leal@escola.pr.gov.br
+- 👀 Eu estou interessada em aprender a progamar novas linguagens.
+- 🌱 Eu estou aprendendo a progamar recentemente a linguagem de JavaScript e Scrath
+- 
